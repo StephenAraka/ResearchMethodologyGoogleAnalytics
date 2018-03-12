@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{plaza2011google}
+B.~Plaza, ``Google analytics for measuring website performance,'' {\em Tourism
+  Management}, vol.~32, no.~3, pp.~477--481, 2011.
+
+\bibitem{ghemawat2003google}
+S.~Ghemawat, H.~Gobioff, and S.-T. Leung, {\em The Google file system},
+  vol.~37.
+\newblock ACM, 2003.
+
+\bibitem{flanagan2006javascript}
+D.~Flanagan, {\em JavaScript: the definitive guide}.
+\newblock " O'Reilly Media, Inc", 2006.
+
+\bibitem{clifton2012advanced}
+B.~Clifton, {\em Advanced web metrics with Google Analytics}.
+\newblock John Wiley \& Sons, 2012.
+
+\end{thebibliography}
